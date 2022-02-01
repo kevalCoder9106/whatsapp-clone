@@ -1,0 +1,16 @@
+*{
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+}
+
+button{
+  
+}
